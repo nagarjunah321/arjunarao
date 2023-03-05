@@ -1,5 +1,5 @@
 [INFO] Scanning for projects...
-[INFO] 
+[INFO] jygfyfygfygyghghjghjghh
 [INFO] ----------------------------< bank:balance >----------------------------
 [INFO] Building balance 1.0-SNAPSHOT
 [INFO] --------------------------------[ jar ]---------------------------------
@@ -31,7 +31,7 @@ Choose archetype:
 16: remote -> br.com.address.archetypes:struts2-archetype (an archetype web 3.0 + struts2 (bootstrap + jquery) + JPA 2.1 with struts2 login system)
 17: remote -> br.com.address.archetypes:struts2-base-archetype (An Archetype with JPA 2.1; Struts2 core 2.3.28.1; Jquery struts plugin; Struts BootStrap plugin; json Struts plugin; Login System using Session and Interceptor)
 18: remote -> br.com.anteros:Anteros-Archetype (Anteros Archetype for Java Web projects.)
-19: remote -> br.com.codecode:vlocadora-json (Modelos com Anotações Gson)
+19: remote -> br.com.codecode:vlocadora-json (Modelos com AnotaÃ§Ãµes Gson)
 20: remote -> br.com.diogoko:maven-doclet-archetype (A Maven archetype to create Doclets for Javadoc)
 21: remote -> br.com.ingenieux:elasticbeanstalk-docker-dropwizard-webapp-archetype (A Maven Archetype for Publishing Dropwizard-based Services on AWS' Elastic
         Beanstalk Service)
@@ -41,8 +41,8 @@ Choose archetype:
 24: remote -> br.com.ingenieux:elasticbeanstalk-wrapper-webapp-archetype (A Maven Archetype Wrapping Existing war files on AWS' Elastic Beanstalk Service)
 25: remote -> br.com.jarch:dsfnet-javaee-archetype (-)
 26: remote -> br.com.jarch:jarch-dsfnet-archetype (-)
-27: remote -> br.com.jarch:javaee-archetype (Projeto com módulos para a aplicação JAVAEE com JARCH)
-28: remote -> br.com.jarch.dsfnet:javaee-archetype (Projeto com módulos para a DSF - Desenvolvimento de Sistemas Fiscais)
+27: remote -> br.com.jarch:javaee-archetype (Projeto com mÃ³dulos para a aplicaÃ§Ã£o JAVAEE com JARCH)
+28: remote -> br.com.jarch.dsfnet:javaee-archetype (Projeto com mÃ³dulos para a DSF - Desenvolvimento de Sistemas Fiscais)
 29: remote -> br.com.miguelfontes:java-tooling-template-archetype (A quickstart archetype with Travis, JUnit 5, Jacoco, Codecov and Sonarcloud pre-configured from the box!)
 30: remote -> br.com.otavio.vraptor.archetypes:vraptor-archetype-blank (A simple project to start with VRaptor 4)
 31: remote -> br.gov.frameworkdemoiselle.archetypes:demoiselle-html-rest (-)
@@ -1182,7 +1182,7 @@ with flight information)
 1066: remote -> io.github.jsoagger:jsoagger-fullstack-archetype (JSoagger Quick Start)
 1067: remote -> io.github.juneau001:webapp-javaee8 (Java EE 8 Maven Archetype)
 1068: remote -> io.github.kgress.scaffold-archetype:scaffold-archetype (A quick start configuration for creating new Scaffold Projects)
-1069: remote -> io.github.leichtundkross:hs-kleinanzeigen-archetype (Archetype zum Erstellen einer minimalen Anwendung für HS Kleinanzeigen)
+1069: remote -> io.github.leichtundkross:hs-kleinanzeigen-archetype (Archetype zum Erstellen einer minimalen Anwendung fÃ¼r HS Kleinanzeigen)
 1070: remote -> io.github.mind-boot:mind-boot-archetype (mind-boot maven archetype)
 1071: remote -> io.github.newur:parent-archetype (A semi-simple Java 11 template with google jib for some extra fun.)
 1072: remote -> io.github.oliviercailloux:java-se-1.8-archetype (A maven archetype for starting Java SE 8 projects.)
@@ -2496,9 +2496,9 @@ This new archetype upgrade libraries to JSF 2.2, Spring 4 and JPA 2.1)
 2246: remote -> org.peelframework:peel-flinkspark-bundle (-)
 2247: remote -> org.peelframework:peel-spark-bundle (-)
 2248: remote -> org.pf4j:pf4j-quickstart (-)
-2249: remote -> org.pousse-cafe-framework:pousse-cafe-sample-app-archetype (Pousse-Café is a framework assisting in writing DDD-based applications. This is the archetype for a simple app.)
-2250: remote -> org.pousse-cafe-framework:pousse-cafe-sample-bounded-context-archetype (Pousse-Café is a framework assisting in writing DDD-based applications. This is the archetype for sample bounded context.)
-2251: remote -> org.pousse-cafe-framework:pousse-cafe-simple-meta-app-archetype (Pousse-Café is a framework assisting in writing DDD-based applications. This is a simple meta-app archetype.)
+2249: remote -> org.pousse-cafe-framework:pousse-cafe-sample-app-archetype (Pousse-CafÃ© is a framework assisting in writing DDD-based applications. This is the archetype for a simple app.)
+2250: remote -> org.pousse-cafe-framework:pousse-cafe-sample-bounded-context-archetype (Pousse-CafÃ© is a framework assisting in writing DDD-based applications. This is the archetype for sample bounded context.)
+2251: remote -> org.pousse-cafe-framework:pousse-cafe-simple-meta-app-archetype (Pousse-CafÃ© is a framework assisting in writing DDD-based applications. This is a simple meta-app archetype.)
 2252: remote -> org.proyecto-adalid.meta:meta-jee2-archetype (Adalid platform JEE2 meta-project archetype)
 2253: remote -> org.pustefixframework:pustefix-archetype-application (Pustefix Archetype for Applications)
 2254: remote -> org.pustefixframework:pustefix-archetype-basic (Pustefix archetype creating a basic application)
@@ -2821,7 +2821,7 @@ NOTE: Retrolambda support provided "as is" - if you have any problems, please fi
 2533: remote -> tech.raaf:mule4-archetype (An example Maven project using Mule 4.x and MUnit 2.x)
 2534: remote -> tk.skuro:clojure-maven-archetype (A simple Maven archetype for Clojure)
 2535: remote -> top.lshaci:framework-archetype (top lshaci framework maven archetype)
-2536: remote -> top.marchand.archetype:sie-xf-prio-dep-import-generic ([ELS] Modèle de projet d'import Flash basé sur l'importeur générique)
+2536: remote -> top.marchand.archetype:sie-xf-prio-dep-import-generic ([ELS] ModÃ¨le de projet d'import Flash basÃ© sur l'importeur gÃ©nÃ©rique)
 2537: remote -> tr.com.lucidcode:kite-archetype (A Maven Archetype that allows users to create a Fresh Kite project)
 2538: remote -> tr.com.obss.sdlc.archetype:obss-archetype-java (This archetype provides a common skelton for the Java packages.)
 2539: remote -> tr.com.obss.sdlc.archetype:obss-archetype-webapp (This archetype provides a skelton for the Java Web Application packages.)
